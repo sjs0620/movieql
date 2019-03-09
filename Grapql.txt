@@ -98,3 +98,11 @@ $ nodemon --exec babel-node index.js
 [nodemon] watching: *.*
 [nodemon] starting `babel-node index.js`
 [nodemon] clean exit - waiting for changes before restart
+
+
+<git commit과 push 명령어>
+C:\Users\k\react\movieql>git commit -m "여기에 주석"
+C:\Users\k\react\movieql>git push origin master
+
+<playground>
+localhost:4000
