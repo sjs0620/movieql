@@ -1,5 +1,7 @@
 
 <GraphQl 시작하기>
+Query, Mutation, Subscription
+
 1. terminal 창에서 
  c:..\react>mkdir movieql
  c:..\react>cd  movieql
@@ -14,7 +16,7 @@
  c:..\react\movieql>yarn init
     name (movieql): 
     version (1.0.0):
-    description: Movie API with Qraphql
+    description: Movie API with Graphql
     entry point:
     repository url: https://github.com/sjs0620/movieql
     author: sjs0620

@@ -10,6 +10,10 @@ const resolvers = {
   }
 };
 
+
+
+
+
 // 화살표함수 () => nicolas
 // function() {return nicolas}와 같음
 
